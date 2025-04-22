@@ -7,12 +7,6 @@ MediCare is a Hospital Management System (HMS) aimed at improving healthcare eff
 ### **Project ERD**  
 ![Project ERD](https://www2.0zz0.com/2025/04/05/12/798923914.png)
 
-**Team Members**  
-- **Anas Almbark** → [GitHub Profile](https://github.com/Anas-Almbark)  
-- **Hasan Shhada** → [GitHub Profile](https://github.com/hasan-sh1)  
-- **Mohammad Karam Ahmad** → [GitHub Profile](https://github.com/karammaarouf)  
-- **Mohammad Abdulwahab** → [GitHub Profile](https://github.com/mohammadabdalwhab)
-
 ### **Hospital & Patient Management**  
 ✅ **Role-Based Authentication**  
 Supports the following roles:  
