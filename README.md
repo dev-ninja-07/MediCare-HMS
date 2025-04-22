@@ -1,7 +1,5 @@
 # MediCare - Hospital Management System 🏥
 
-![MediCare Logo](https://www2.0zz0.com/2025/04/05/12/864191586.png)
-
 📌 **About the Project**  
 MediCare is a Hospital Management System (HMS) aimed at improving healthcare efficiency by streamlining hospital operations. It enables hospitals and clinics to seamlessly manage patients, doctors, appointments, medical records, and billing. The system is built using **Laravel** with **Blade Templates** for the front-end, providing a robust and scalable solution tailored to the needs of healthcare institutions.
 
